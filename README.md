@@ -7,4 +7,4 @@ After doing that you can see the app on localhost:8000
 
 Architure chart of the app:
 
-![imagen](https://user-images.githubusercontent.com/110420840/210641470-78b7e676-6820-4d87-9c89-195dbccb4de9.png)
+![imagen](https://user-images.githubusercontent.com/110420840/211677887-8c587f8b-27a2-47f0-86dd-66d652fe12c7.png)
