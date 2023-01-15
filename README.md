@@ -1,6 +1,8 @@
 # NASA-Launch-Project
 
-Fork the code and run npm run deploy on the root folder.
+You can see the project on http://18.228.206.246:8000/
+
+Or you can fork the code and run npm run deploy on the root folder.
 
 After doing that you can see the app on localhost:8000
 
